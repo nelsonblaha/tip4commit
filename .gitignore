@@ -19,3 +19,6 @@
 /config/config.yml
 
 /public/assets
+
+# Ignore RubyMine
+.idea/
